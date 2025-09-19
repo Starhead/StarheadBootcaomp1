@@ -31,3 +31,27 @@ img{
     width: 300px;
     height: 300px;
 }
+
+
+/* this the code for the table class */
+        h1{
+        color: #c04d0bfa;
+        }
+        table{
+        border: 5px outset #1408bdfa;
+        background-color: #adb4b4;
+        }
+        th, td {
+        border: 5px solid #bd7408fa;
+        /* border-collapse: collapse; */
+        }
+
+        th {
+        background-color: #96D4D4;
+        }
+
+        td{
+        border: 2px dashed #bd7408fa;
+        background-color: #cca80a;
+        border-radius: 50px;
+        }
