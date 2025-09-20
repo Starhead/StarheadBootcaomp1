@@ -37,10 +37,13 @@ img{
         h1{
         color: #c04d0bfa;
         }
-        table{
+    table {
         border: 5px outset #1408bdfa;
         background-color: #adb4b4;
-        }
+        margin: 20px auto; 
+        width: 40%;
+        text-align: center; 
+}
         th, td {
         border: 5px solid #bd7408fa;
         /* border-collapse: collapse; */
