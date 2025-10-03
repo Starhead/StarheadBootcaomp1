@@ -39,9 +39,9 @@ img{
         }
     table {
         border: 5px outset #1408bdfa;
-        background-color: #adb4b4;
+        background-color: #627e7e;
         margin: 20px auto; 
-        width: 40%;
+        width: 60%;
         text-align: center; 
 }
         th, td {
@@ -58,3 +58,22 @@ img{
         background-color: #cca80a;
         border-radius: 50px;
         }
+
+    /* the navbar styling */
+
+        .menu{
+            display: flex;
+            gap: 20px;
+        list-style-type: none;
+        justify-content: center;
+        }
+        .menu li{
+            color: white;
+        }
+            .menu li a{
+            color: white;
+            text-decoration: none;
+            font-size: x-large;
+            font-weight: bold;
+                font-family: 'Asimovian', sans-serif;
+            }
